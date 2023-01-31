@@ -28,7 +28,7 @@ Como essas entidades estão relacionadas?
 
 ## 🛠️ Tecnologias Utilizadas
 <div style="display:flex">
-  <img src="" style=" width:60px;cursor:default"/>
+  <img src="https://user-images.githubusercontent.com/65381107/215641402-0a342691-80ef-47a0-bc79-bb8c3aba9006.png" style=" width:60px;cursor:default"/>
 
 
 </div>
@@ -36,7 +36,7 @@ Como essas entidades estão relacionadas?
 
 ## 📸 O Projeto
 
-<img src=" ">
+<img src="https://user-images.githubusercontent.com/65381107/215641176-a1178bb7-0adf-4903-bda5-14f0d27133e9.png">
 
 
 
